@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### ᗧ···ᗣ··· Pac-Man Contributions
+
+![Pac-Man contribution graph](https://raw.githubusercontent.com/sayan9774/sayan9774/output/pacman.svg)
