@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 -->
 ### ᗧ···ᗣ··· Pac-Man Contributions
 
-![Pac-Man contribution graph](https://raw.githubusercontent.com/sayan9774/sayan9774/output/pacman.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sayan9774/sayan9774/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sayan9774/sayan9774/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/sayan9774/sayan9774/output/pacman-contribution-graph.svg">
+</picture>
